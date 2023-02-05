@@ -4,8 +4,6 @@ My name is Max Klein. I am a front-end developer from the Netherlands.
 
 I am working mainly with React, React Native and Typescript. I am working remotely from Portugal 🇵🇹.
 
-Please feel free to send me an e-mail on mcklein1992@gmail.com!
-
 <code><img height="20" alt="javascript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" alt="typescript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
 <code><img height="20" alt="react" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
@@ -22,3 +20,7 @@ Please feel free to send me an e-mail on mcklein1992@gmail.com!
 - [Instadrop](https://instadrop.com.ng/)
 - [Puppyplaza](https://www.puppyplaza.com/)
 
+## Get in touch :coffee:
+
+- Please feel free to send me an e-mail on mcklein1992@gmail.com!
+- Send me a message on [LinkedIn](https://www.linkedin.com/in/maxklein1992/)
