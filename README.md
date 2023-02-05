@@ -1,4 +1,5 @@
 ### Welcome to my Github account
+<h1 align="center">Welcome to my Github account
 
 My name is Max Klein. I am a front-end developer from the Netherlands. 
 
