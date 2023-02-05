@@ -16,5 +16,5 @@ Please feel free to send me a mail on mcklein1992@gmail.com!
 - [Freecords](https://www.freecords.com/)
 - [Freecords](https://www.freecords.com/)
 - [Instadrop](https://instadrop.com.ng/)
-- [Puppyplaza]([https://](https://www.puppyplaza.com/)
+- [Puppyplaza](https://www.puppyplaza.com/)
 
