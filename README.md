@@ -1,7 +1,7 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Stefan Topalovic
+Hi Welcome! ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Max Klein
 ========================================================================================================================================
 
-My name is Max Klein. I am a front-end developer from the Netherlands. 
+I am a front-end developer from the Netherlands. 
 
 I am working mainly with React, React Native and Typescript. I am working remotely from Portugal 🇵🇹.
 
