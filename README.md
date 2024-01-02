@@ -14,9 +14,12 @@ I am working mainly with React, React Native and Typescript, remotely from Portu
 ## Own project working on:
 - [Holiday Swipe App](https://github.com/maxklein1992/holiday-swipe-app) :airplane:
 
+## Current projects:
+- [Mind2pay](https://mind2pay.com/)
+- [My Journey by Belmondo](https://my-journey.io/)
+
 ## Past Projects 🤖 :
 - [Kinetikos health](https://kinetikoshealth.com/)
-- [My Journey by Belmondo](https://my-journey.io/)
 - [Hiredevs](https://www.hiredevs.io/)
 - [Clever Net Systems](https://www.clevernetsystems.com/)
 - [Freecords](https://www.freecords.com/)
