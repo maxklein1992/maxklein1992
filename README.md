@@ -11,9 +11,6 @@ I am working mainly with React, React Native and Typescript, remotely from Portu
 ## Coding time since 5 februari 2023 👨‍💻 :
 [![wakatime](https://wakatime.com/badge/user/4995c7d9-63fd-4332-8074-41890703811e.svg)](https://wakatime.com/@4995c7d9-63fd-4332-8074-41890703811e)
 
-## Own project working on:
-- [Payrollbuddy](https://payrollbuddy.nl)
-
 ## Current projects:
 - [Mind2pay](https://mind2pay.com/)
 - [My Journey by Belmondo](https://my-journey.io/)
