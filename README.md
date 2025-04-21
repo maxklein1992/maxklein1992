@@ -13,6 +13,7 @@ I am working mainly with React, React Native and Typescript, remotely from Portu
 
 ## Current projects:
 - [Mind2pay](https://mind2pay.com/)
+- [Tektonikos](https://tektonikos.eu/)
 - [My Journey by Belmondo](https://my-journey.io/)
 
 ## Past Projects 🤖 :
